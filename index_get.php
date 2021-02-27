@@ -17,7 +17,7 @@
       <div>
       <!-- Address -->
       <label for = "addy">Address:</label>
-      <input id = "addy" type = "text" name = "name">
+      <input id = "addy" type = "text" name = "addy">
       </div>
 
       <div>
